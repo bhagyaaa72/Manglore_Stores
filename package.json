@@ -1,8 +1,9 @@
 {
-  "name": "Manglore-Store",
+  "name": "Backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "Start":"node Backend/server.js"
     "dev": "nodemon Backend/server.js"
   },
   "type": "module",
